@@ -52,6 +52,8 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
  -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/1f212573-9237-43b2-9fb1-7ee58777677b)
  -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/ab796232-5ea5-45f0-a935-958cc2a599ea)
  -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/29ddc785-aec0-479c-98a4-4f730dc9370d)
+ -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/45033f6b-ab0b-4261-9eca-71d1b692fa95)
+
 
 ### Bidding System: 
  - Tutors can view posted questions and bid for tutoring tasks by offering their services and proposing a price.
