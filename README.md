@@ -13,7 +13,6 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
  - JavaScript: Used for frontend development to create dynamic and interactive user interfaces.
 
 ## 🔌 APIs:
-
 ### SMS API (for notifications):
  - Implemented to send timely notifications to users regarding bid updates, payment status, and other relevant events.
 ### Payment Gateway API (Flutterwave): 
@@ -26,6 +25,8 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
 ## 🌟 Features
 ### User Authentication: 
  - Users can register as either students or tutors and securely log in to access the platform's features.
+   ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/8ed7caee-add0-4140-8a63-489bd81481cb)
+   
 ### Question Posting: 
  - Students can post questions they need help with, providing details such as subject, level, and urgency.
 ### Bidding System: 
