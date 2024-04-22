@@ -14,19 +14,30 @@ JavaScript: Used for frontend development to create dynamic and interactive user
 
 ## APIs:
 
-### SMS API (for notifications): Implemented to send timely notifications to users regarding bid updates, payment status, and other relevant events.
-### Payment Gateway API (Flutterwave): Integrated to enable seamless and secure transactions between students and tutors.
-### Recommendation System API (if applicable): Utilized to match tutors with relevant questions based on their expertise and past performance.
-### Websockets: Employed for chat communication between students and tutors, optimizing interaction and reducing reliance on external services.
+### SMS API (for notifications):
+Implemented to send timely notifications to users regarding bid updates, payment status, and other relevant events.
+### Payment Gateway API (Flutterwave): 
+Integrated to enable seamless and secure transactions between students and tutors.
+### Recommendation System API (if applicable): 
+Utilized to match tutors with relevant questions based on their expertise and past performance.
+### Websockets: 
+Employed for chat communication between students and tutors, optimizing interaction and reducing reliance on external services.
 
 ## Features
-### User Authentication: Users can register as either students or tutors and securely log in to access the platform's features.
-### Question Posting: Students can post questions they need help with, providing details such as subject, level, and urgency.
-### Bidding System: Tutors can view posted questions and bid for tutoring tasks by offering their services and proposing a price.
-### Recommendation System: Utilizes a recommendation system to match tutors with relevant questions, enhancing efficiency and user experience.
-### Payment Integration: The Flutterwave payment gateway is seamlessly integrated to enable secure and hassle-free transactions between students and tutors.
-### Notification System: SMS notifications keep users informed about bid updates, payment status, and other relevant events, ensuring timely communication.
-### Rating and Reviews: Students can rate tutors based on their tutoring experience, providing valuable feedback for continuous improvement.
+### User Authentication: 
+Users can register as either students or tutors and securely log in to access the platform's features.
+### Question Posting: 
+Students can post questions they need help with, providing details such as subject, level, and urgency.
+### Bidding System: 
+Tutors can view posted questions and bid for tutoring tasks by offering their services and proposing a price.
+### Recommendation System: 
+Utilizes a recommendation system to match tutors with relevant questions, enhancing efficiency and user experience.
+### Payment Integration: 
+The Flutterwave payment gateway is seamlessly integrated to enable secure and hassle-free transactions between students and tutors.
+### Notification System: 
+SMS notifications keep users informed about bid updates, payment status, and other relevant events, ensuring timely communication.
+### Rating and Reviews: 
+Students can rate tutors based on their tutoring experience, providing valuable feedback for continuous improvement.
 
 ## Deployment
 The application is deployed on Heroku, a cloud platform as a service (PaaS), ensuring scalability and reliability. Additionally, Daphne is utilized as the WebSocket protocol server, providing high-performance communication capabilities. The backend database is powered by PostgreSQL, offering robust data management, with Redis serving as the cache for optimizing performance.
@@ -41,6 +52,9 @@ Register or log in to browse available questions, place bids, and provide tutori
 ## Future Improvements
 In addition to the existing features, potential future enhancements include:
 
-### Chat Functionality: Further leveraging Websockets for enhanced real-time communication between students and tutors.
-### Advanced Analytics: Implementing analytics features to provide insights into user behavior and performance metrics.
-### Additional Payment Options: Integrating additional payment gateways to offer users more flexibility in payment methods.
+### Chat Functionality: 
+Further leveraging Websockets for enhanced real-time communication between students and tutors.
+### Advanced Analytics: 
+Implementing analytics features to provide insights into user behavior and performance metrics.
+### Additional Payment Options: 
+Integrating additional payment gateways to offer users more flexibility in payment methods.
