@@ -30,6 +30,17 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
 
 ### Question Posting: 
  - Students can post questions they need help with, providing details such as subject, level, and urgency.
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/326ff926-aa21-499d-b1f4-fdf0ef5f7dee)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/bb51e44d-7ff8-4c9a-a4ca-4162348be998)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/8e74f6a2-6dc2-42e5-9b7f-56103685f80e)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/b704a4dc-0c8a-4105-be28-9c7b1d59839f)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/472a2f86-2511-4029-b5b6-e4d2d1ca08e5)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/847b7c52-f3e5-4403-811b-1d07424fec8d)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/f8a1d7c1-d48d-4c4e-9414-2fac6f87f10a)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/5bfc95f3-49dc-405c-8202-5d895032e47b)
+ - ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/b9540da5-3448-44b2-8b8d-34bc6d6ec113)
+   
+
 ### Bidding System: 
  - Tutors can view posted questions and bid for tutoring tasks by offering their services and proposing a price.
 ### Recommendation System: 
@@ -38,6 +49,10 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
  - The Flutterwave payment gateway is seamlessly integrated to enable secure and hassle-free transactions between students and tutors.
 ### Notification System: 
  - SMS notifications keep users informed about bid updates, payment status, and other relevant events, ensuring timely communication.
+   -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/46106e9d-fe41-4c90-8974-5328bfd12591)
+   -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/43f597ca-7f89-4850-8c08-962ea09a2fb9)
+
+
 ### Rating and Reviews: 
  - Students can rate tutors based on their tutoring experience, providing valuable feedback for continuous improvement.
 
