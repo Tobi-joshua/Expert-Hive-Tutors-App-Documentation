@@ -4,6 +4,8 @@ Cutting-edge web app for Expert Hive Freelance Services. Built with Python (Djan
 ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/a5fc97d6-5f7f-47b9-9956-e716a46bc9f5)
 ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/89926f0b-6c50-49e0-b0ad-f754a382953b)
 ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/51707a74-5c34-4b4c-987f-50ba65c9bbef)
+![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/ec708780-300f-485a-a8b4-4e7b37b80fc0)
+
 
 ### Overview 
 
