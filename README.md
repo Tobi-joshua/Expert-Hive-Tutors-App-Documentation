@@ -22,7 +22,7 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
  - Implemented to send timely notifications to users regarding bid updates, payment status, and other relevant events.
 ### Payment Gateway API (Flutterwave): 
  - Integrated to enable seamless and secure transactions between students and tutors.
-### Recommendation System API (if applicable): 
+### Recommendation System API : 
  - Utilized to match tutors with relevant questions based on their expertise and past performance.
 ### Websockets: 
  - Employed for chat communication between students and tutors, optimizing interaction and reducing reliance on external services.
