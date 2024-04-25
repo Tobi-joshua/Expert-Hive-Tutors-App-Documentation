@@ -2,7 +2,7 @@
 Cutting-edge web app for Expert Hive Freelance Services. Built with Python (Django) &amp; JavaScript, integrating SMS, Payment Gateway, and Recommendation System APIs.
 
 ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/32c5aba8-60bb-4f9b-9f19-88391946a0f6)
-![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/89926f0b-6c50-49e0-b0ad-f754a382953b)
+![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/2a503c0c-81e5-435b-947d-c929d7fd7f64)
 ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/51707a74-5c34-4b4c-987f-50ba65c9bbef)
 ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/ec708780-300f-485a-a8b4-4e7b37b80fc0)
 
