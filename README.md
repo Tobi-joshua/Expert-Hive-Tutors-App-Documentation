@@ -1,5 +1,4 @@
-#### ![image](https://github.com/user-attachments/assets/118116e3-4da8-46e8-a99c-4dd46002176e)
- This actual code repo was made private for security purposes or copyright. If you want to hire me, and you want to see my code, I will display them for proof.
+NOTE: This actual code repo was made private for security purposes or copyright. If you want to hire me, and you want to see my code,and  I will display them for proof. Thank You For Understanding!. Now, let me take you through my work.
 
 🚀 Expert-Hive-Tutors-App-Documentation
 Cutting-edge web app for Expert Hive Freelance Services. Built with Python (Django) &amp; JavaScript, integrating SMS, Payment Gateway, and Recommendation System APIs.
