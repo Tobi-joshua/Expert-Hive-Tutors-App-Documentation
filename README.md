@@ -1,4 +1,6 @@
-NOTE: This actual code repo was made private for security purposes or copyright. If you want to hire me, and you want to see my code,and  I will display them for proof. Thank You For Understanding!. Now, let me take you through my work.
+Note on Code Repository
+IMPORTANT: The actual code for this project is stored in a private repository for security and copyright reasons. If you are interested in hiring me or need to see the code for verification purposes, please feel free to reach out. I will be happy to provide access to the code upon request. Thank you for understanding!
+
 
 🚀 Expert-Hive-Tutors-App-Documentation
 Cutting-edge web app for Expert Hive Freelance Services. Built with Python (Django) &amp; JavaScript, integrating SMS, Payment Gateway, and Recommendation System APIs.
