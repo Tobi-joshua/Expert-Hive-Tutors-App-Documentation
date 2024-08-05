@@ -38,23 +38,41 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
 
 ### Question Posting: 
  -- Students can post questions they need help with, providing details such as subject, level, and urgency.
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/326ff926-aa21-499d-b1f4-fdf0ef5f7dee)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/bb51e44d-7ff8-4c9a-a4ca-4162348be998)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/8e74f6a2-6dc2-42e5-9b7f-56103685f80e)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/b704a4dc-0c8a-4105-be28-9c7b1d59839f)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/472a2f86-2511-4029-b5b6-e4d2d1ca08e5)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/847b7c52-f3e5-4403-811b-1d07424fec8d)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/f8a1d7c1-d48d-4c4e-9414-2fac6f87f10a)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/5bfc95f3-49dc-405c-8202-5d895032e47b)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/b9540da5-3448-44b2-8b8d-34bc6d6ec113)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/68cf555d-3c01-4d40-b531-98382a3e75a6)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/e4528a7b-b303-42f1-a11b-068124d03618)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/9a8bc6c0-047f-4a64-b547-7cb937c1c658)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/8f2b3f54-7484-45f6-8557-15e616184e89)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/1f212573-9237-43b2-9fb1-7ee58777677b)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/ab796232-5ea5-45f0-a935-958cc2a599ea)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/29ddc785-aec0-479c-98a4-4f730dc9370d)
- -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/45033f6b-ab0b-4261-9eca-71d1b692fa95)
+ 
+ Student Dashboard:
+ ![image](https://github.com/user-attachments/assets/673de0ea-6048-47aa-92ed-9249004f258a)
+ ![image](https://github.com/user-attachments/assets/e56a8c2d-dfb4-414a-be17-c741baff1697)
+
+
+Question Details Page:
+On page Load:
+![image](https://github.com/user-attachments/assets/971a7f29-3fc9-41e7-82ac-6f3f2c475993)
+
+After Modal Clicked:
+![image](https://github.com/user-attachments/assets/314cf66b-0078-42fa-880b-e6406cbcfc01)
+
+![image](https://github.com/user-attachments/assets/1f195b33-1f48-4961-a730-736300d100fc)
+
+![image](https://github.com/user-attachments/assets/5e647616-69d3-4e17-a0cb-767007bb9635)
+
+![image](https://github.com/user-attachments/assets/c1b2dc43-41e2-4c7b-a3aa-f949476e3612)
+
+Question List Page (This is added for student so that they can easily track the ongoing questions(paid or unassigned)
+![image](https://github.com/user-attachments/assets/4ca312b0-bfd8-431f-a144-7d73d392517e)
+
+![image](https://github.com/user-attachments/assets/b78092e6-b5c8-4134-be10-8dc09f5733d0)
+
+After the question is posted, the student will be redirected to the Recommendation page:
+![image](https://github.com/user-attachments/assets/33e885dd-2e08-40b1-97ed-d56347f9c5e8)
+
+![image](https://github.com/user-attachments/assets/56427799-d3b7-4e21-be05-2a11d7c98766)
+
+The received an instant recommendation once bids are received!:
+![image](https://github.com/user-attachments/assets/4f38b064-17d8-4a08-b7c5-e21ffb9b215b)
+
+They have the chance to chat with the tutor before selecting them:
+![image](https://github.com/user-attachments/assets/8f50811a-e0fd-4e51-837d-08141c7dd09f)
+
 
 
 ### Bidding System: 
