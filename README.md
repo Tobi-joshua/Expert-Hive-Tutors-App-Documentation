@@ -77,14 +77,16 @@ They have the chance to chat with the tutor before selecting them:
 
 ### Bidding System: 
  - Tutors can view posted questions and bid for tutoring tasks by offering their services and proposing a price.
+ - ![image](https://github.com/user-attachments/assets/f86cc121-fb51-445b-9529-a4ba271984a1)
+ - ![image](https://github.com/user-attachments/assets/c3ad4de3-ceca-4c0a-b4c3-2d2f33992d69)
+
+
 ### Recommendation System: 
  - Utilizes a recommendation system to match tutors with relevant questions, enhancing efficiency and user experience.
 ### Payment Integration: 
  - The Flutterwave payment gateway is seamlessly integrated to enable secure and hassle-free transactions between students and tutors.
 ### Notification System: 
  - SMS notifications keep users informed about bid updates, payment status, and other relevant events, ensuring timely communication.
-   -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/46106e9d-fe41-4c90-8974-5328bfd12591)
-   -- ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/43f597ca-7f89-4850-8c08-962ea09a2fb9)
 
 ### Rating and Reviews: 
  - Students can rate tutors based on their tutoring experience, providing valuable feedback for continuous improvement.
