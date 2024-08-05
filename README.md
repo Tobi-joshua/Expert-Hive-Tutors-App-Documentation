@@ -2,7 +2,7 @@ Note on Code Repository
 IMPORTANT: The actual code for this project is stored in a private repository for security and copyright reasons. If you are interested in hiring me or need to see the code for verification purposes, please feel free to reach out. I will be happy to provide access to the code upon request. Thank you for understanding!
 
 
-🚀 Expert-Hive-Tutors-App-Documentation
+🚀 Expert-Hive-Tutors-App-Documentation (https://www.experthivetutors.com/)
 Cutting-edge web app for Expert Hive Freelance Services. Built with Python (Django) &amp; JavaScript, integrating SMS, Payment Gateway, and Recommendation System APIs.
 
 ![image](https://github.com/user-attachments/assets/cb07f33f-90d3-4075-bbd3-fe43d5fcf22d)
