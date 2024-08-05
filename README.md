@@ -31,8 +31,10 @@ This documentation provides a detailed overview of the Expert Hive Tutors web ap
 ### User Authentication: 
 
  - Users can register as either students or tutors and securely log in to access the platform's features.
-   ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/8ed7caee-add0-4140-8a63-489bd81481cb)
-   ![image](https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/assets/62856830/1eea5a24-25e4-4d94-8a70-b318fe313b10)
+  ![image](https://github.com/user-attachments/assets/a1ca2f26-86b7-4530-9ca6-a82535603982)
+![image](https://github.com/user-attachments/assets/e2b07779-2369-42f1-862d-f0d60a6c41c1)
+![image](https://github.com/user-attachments/assets/ba1eb129-1610-44d8-b6e1-3277e3df7806)
+
 
 ### Question Posting: 
  -- Students can post questions they need help with, providing details such as subject, level, and urgency.
