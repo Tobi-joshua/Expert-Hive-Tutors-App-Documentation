@@ -65,7 +65,8 @@ Question List Page (This is added for student so that they can easily track the 
 After the question is posted, the student will be redirected to the Recommendation page:
 ![image](https://github.com/user-attachments/assets/33e885dd-2e08-40b1-97ed-d56347f9c5e8)
 
-![image](https://github.com/user-attachments/assets/56427799-d3b7-4e21-be05-2a11d7c98766)
+![image](https://github.com/user-attachments/assets/c91167cd-bd56-4d95-acdc-c739aaac0b95)
+
 
 The received an instant recommendation once bids are received!:
 ![image](https://github.com/user-attachments/assets/4f38b064-17d8-4a08-b7c5-e21ffb9b215b)
