@@ -108,4 +108,4 @@ The application is deployed on **Heroku**, ensuring scalability and reliability.
 
 ## Repository 🔗
 
-Explore the repository and contribute to the project: [GitHub Repository Link](#)
+Explore the repository and contribute to the project: https://github.com/Tobi-joshua/Expert-Hive-Tutors-App-Documentation/blob/main/README.md
