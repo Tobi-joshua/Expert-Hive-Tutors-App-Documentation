@@ -1,6 +1,6 @@
 # Expert Hive Tutors App Documentation 📚🚀
 
-![image](https://github.com/user-attachments/assets/cb07f33f-90d3-4075-bbd3-fe43d5fcf22d)
+![image](https://github.com/user-attachments/assets/b771f89b-9b69-4f97-8761-cd8a3d357bc7)
 
 Welcome to the **Expert Hive Tutors App** documentation! This cutting-edge web application facilitates interactions between students seeking tutoring services and tutors offering their expertise. It integrates SMS notifications, a payment gateway, and a recommendation system to provide a seamless experience.
 
